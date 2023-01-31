@@ -9,7 +9,7 @@ pip install setuptools
 
 # If HEVC is unplayable
 
-If .HEVC is unplayable, try this for the respective distro being used:
+If .HEVC is unplayable, try these cmds for the respective distro being used:
 
 # Ubuntu/Debian:
 
