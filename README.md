@@ -7,7 +7,7 @@ pip install moviepy
 
 pip install setuptools
 
-Ubuntu/Debian:
+# Ubuntu/Debian:
 
 If .HEVC is unplayable, try this for the respective distro being used:
 
@@ -16,11 +16,11 @@ sudo apt-get update
 sudo apt-get install libx265-dev
 
 
-Fedora:
+# Fedora:
 
 sudo dnf install x265
 
 
-Arch:
+# Arch:
 
 sudo pacman -S x265
