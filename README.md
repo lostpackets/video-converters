@@ -9,7 +9,7 @@ pip install setuptools
 
 # If HEVC is unplayable
 
-If .HEVC is unplayable, try these cmds for the respective distro being used:
+If .HEVC is unplayable, try the cmds below for the respective distro being used (cmds will dl libx265)
 
 # Ubuntu/Debian:
 
