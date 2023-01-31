@@ -7,6 +7,8 @@ pip install moviepy
 
 pip install setuptools
 
+# If HEVC is unplayable
+
 # Ubuntu/Debian:
 
 If .HEVC is unplayable, try this for the respective distro being used:
